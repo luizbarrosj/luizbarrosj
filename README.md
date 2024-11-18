@@ -1,4 +1,4 @@
-g# 👋 Olá, sou Luiz!
+# 👋 Olá, sou Luiz!
 
 🚀 **Desenvolvedor Full Stack** especializado em tecnologias como **Java (JSP)**, **Node.js**, **TypeScript**, **React.js**, **PostgreSQL**, e mais.
 
