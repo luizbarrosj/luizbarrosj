@@ -1,4 +1,4 @@
-# 👋 Olá, sou Luiz!
+g# 👋 Olá, sou Luiz!
 
 🚀 **Desenvolvedor Full Stack** especializado em tecnologias como **Java (JSP)**, **Node.js**, **TypeScript**, **React.js**, **PostgreSQL**, e mais.
 
@@ -18,10 +18,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=luizbarrosj&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizbarrosj&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizbarrosj&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizbarrosj&layout=compact&theme=radical" alt="Linguagens mais usadas" />
     </td>
   </tr>
 </table>
