@@ -19,6 +19,8 @@
   <tr>
     <td>
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizbarrosj&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+      [![My stats](https://meu-subdominio.vercel.app/api?username=luizbarrosj&count_private=true&show_icons=true&theme=radical)](https://github.com/luizbarrosj)
+
     </td>
     <td>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizbarrosj&layout=compact&theme=radical" alt="Linguagens mais usadas" />
